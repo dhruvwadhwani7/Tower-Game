@@ -8,12 +8,6 @@ A beautiful 3D block stacking game built with Three.js and GSAP animations. Test
 
 - Smooth 3D graphics and animations
 - Progressive difficulty
-- Special milestone messages at specific scores:
-  - Score 3: "That's your birth Date"
-  - Score 7: "That's My birth date and month"
-  - Score 12: "That's your birthday month"
-  - Score 17: "The date we first met"
-  - Score 27: "Proposal Date"
 - Responsive design for all devices
 - Simple one-button controls
 
